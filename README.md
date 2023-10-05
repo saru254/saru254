@@ -1,5 +1,5 @@
 # 💫 About Me:
-🙍‍♀️  Student<br>🔭 I’m currently working on satellite data analyzation<br>👯 I’m looking to collaborate on <br>🤝 I’m looking for help with<br>🌱 I’m currently learning machine learning<br>💬 Ask me about python, AI, Machine Learning, tensorflow<br>
+🙍‍♀️  Student<br>🌱 I’m currently learning machine learning<br>💬 Ask me about python, AI, Machine Learning, tensorflow<br>
 
 
 ## 🌐 Socials:
