@@ -1,5 +1,12 @@
 # 💫 About Me:
-🙍‍♀️  Student<br>🌱 I’m currently learning C#<br>💬 Ask me about python, C#, Machine Learning, tensorflow<br>
+Hi, I’m Karen!  
+- 💻 Passionate about software development, DevOps, and backend engineering  
+- 🌱 Currently learning Flutter, C#, and .NET applications  
+- 🚀 Exploring real-world projects to sharpen my coding and problem-solving skills  
+- 📚 Always eager to learn, build, and grow in tech  
+- 🎯 Goal: Build impactful solutions and contribute to open-source projects  
+
+✨ Let’s connect and grow together!
 
 
 ## 🌐 Socials:
